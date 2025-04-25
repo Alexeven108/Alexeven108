@@ -8,7 +8,7 @@ Working on Financial Risk Models...
 
 * 🌍  I'm based in London, UK
 * 🧠  I'm learning Value at Risk (VaR) & Climate-adjusted VaR for various S&P 500 equities
-* 🤝  I'm open to collaborating on anything Finance based projects
+* 🤝  I'm open to collaborating on any Finance based projects
 * ⚡  I'm half French & half Indian
 
 ### Skills
